@@ -1,2 +1,8 @@
 
 /.idea/
+/target/
+/containerEnumSignleton.obj
+/ContainerSignletonTest.obj
+/hungrySingleton.obj
+/lazySignleton.obj
+/innerClassSignleton.obj
